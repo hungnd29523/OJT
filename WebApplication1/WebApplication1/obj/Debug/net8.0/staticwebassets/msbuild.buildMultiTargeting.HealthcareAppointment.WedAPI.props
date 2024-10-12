@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HealthcareAppointment.WedAPI.props" />
+</Project>

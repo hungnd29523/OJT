@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nad3RKAYvaGohGDW9Pj7vHGhMOF3L0JsWu3Ml3aXZg4=",
+  "Source": "HealthcareAppointment.WedAPI",
+  "BasePath": "_content/HealthcareAppointment.WedAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
